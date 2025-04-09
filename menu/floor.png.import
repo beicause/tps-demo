@@ -3,20 +3,19 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://c6gsd2mdmea8w"
-path.bptc="res://.godot/imported/floor.png-cfea6a18452e506a975e8d6895f52a1e.bptc.ctex"
+path="res://.godot/imported/floor.png-cfea6a18452e506a975e8d6895f52a1e.ctex"
 metadata={
-"imported_formats": ["s3tc_bptc"],
-"vram_texture": true
+"vram_texture": false
 }
 
 [deps]
 
 source_file="res://menu/floor.png"
-dest_files=["res://.godot/imported/floor.png-cfea6a18452e506a975e8d6895f52a1e.bptc.ctex"]
+dest_files=["res://.godot/imported/floor.png-cfea6a18452e506a975e8d6895f52a1e.ctex"]
 
 [params]
 
-compress/mode=2
+compress/mode=4
 compress/high_quality=true
 compress/lossy_quality=0.7
 compress/hdr_compression=1
@@ -32,4 +31,11 @@ process/normal_map_invert_y=false
 process/hdr_as_srgb=false
 process/hdr_clamp_exposure=false
 process/size_limit=0
+process/resolution_scale=0.125
 detect_3d/compress_to=0
+basis_universal/uastc_pack_level=0
+basis_universal/rdo_enabled=false
+basis_universal/rdo_quality_loss=1.0
+basis_universal/rdo_dict_size=1024
+basis_universal/zstd_supercompression=true
+basis_universal/zstd_supercompression_level=6

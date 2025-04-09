@@ -36,7 +36,8 @@ _subresources={
 "materials": {
 "EvilRobo": {
 "use_external/enabled": true,
-"use_external/path": "res://enemies/red_robot/parts/EvilRobo.tres"
+"use_external/fallback_path": "res://enemies/red_robot/parts/EvilRobo.tres",
+"use_external/path": "uid://brmid853op8lj"
 }
 }
 }

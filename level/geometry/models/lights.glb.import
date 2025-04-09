@@ -36,7 +36,8 @@ _subresources={
 "materials": {
 "light_shafts": {
 "use_external/enabled": true,
-"use_external/path": "res://level/geometry/models/light_shafts.tres"
+"use_external/fallback_path": "res://level/geometry/models/light_shafts.tres",
+"use_external/path": "uid://2derncr82ntu"
 }
 }
 }

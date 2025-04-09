@@ -36,11 +36,13 @@ _subresources={
 "materials": {
 "flying_forklift": {
 "use_external/enabled": true,
-"use_external/path": "res://level/forklift/flying_forklift.tres"
+"use_external/fallback_path": "res://level/forklift/flying_forklift.tres",
+"use_external/path": "uid://bb4rjtvtwl1a3"
 },
 "mid_cargo_box": {
 "use_external/enabled": true,
-"use_external/path": "res://level/forklift/mid_cargo_box.tres"
+"use_external/fallback_path": "res://level/forklift/mid_cargo_box.tres",
+"use_external/path": "uid://fqclk6lbdf03"
 }
 }
 }

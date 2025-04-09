@@ -3,20 +3,19 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://di2s520ksnyt"
-path.s3tc="res://.godot/imported/set_asphalt_normal.png-192f06ab6dd6a4e8cd158e3afe42e86e.s3tc.ctex"
+path="res://.godot/imported/set_asphalt_normal.png-192f06ab6dd6a4e8cd158e3afe42e86e.ctex"
 metadata={
-"imported_formats": ["s3tc_bptc"],
-"vram_texture": true
+"vram_texture": false
 }
 
 [deps]
 
 source_file="res://level/textures/structure/set_asphalt_normal.png"
-dest_files=["res://.godot/imported/set_asphalt_normal.png-192f06ab6dd6a4e8cd158e3afe42e86e.s3tc.ctex"]
+dest_files=["res://.godot/imported/set_asphalt_normal.png-192f06ab6dd6a4e8cd158e3afe42e86e.ctex"]
 
 [params]
 
-compress/mode=2
+compress/mode=4
 compress/high_quality=false
 compress/lossy_quality=0.7
 compress/hdr_compression=1
@@ -32,4 +31,11 @@ process/normal_map_invert_y=false
 process/hdr_as_srgb=false
 process/hdr_clamp_exposure=false
 process/size_limit=0
+process/resolution_scale=0.125
 detect_3d/compress_to=0
+basis_universal/uastc_pack_level=0
+basis_universal/rdo_enabled=false
+basis_universal/rdo_quality_loss=1.0
+basis_universal/rdo_dict_size=1024
+basis_universal/zstd_supercompression=true
+basis_universal/zstd_supercompression_level=6

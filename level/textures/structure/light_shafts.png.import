@@ -15,7 +15,7 @@ dest_files=["res://.godot/imported/light_shafts.png-7bf7b75ffc6e9552229cab185000
 
 [params]
 
-compress/mode=0
+compress/mode=4
 compress/high_quality=false
 compress/lossy_quality=0.7
 compress/hdr_compression=1
@@ -31,4 +31,11 @@ process/normal_map_invert_y=false
 process/hdr_as_srgb=false
 process/hdr_clamp_exposure=false
 process/size_limit=0
+process/resolution_scale=0.125
 detect_3d/compress_to=0
+basis_universal/uastc_pack_level=0
+basis_universal/rdo_enabled=false
+basis_universal/rdo_quality_loss=1.0
+basis_universal/rdo_dict_size=1024
+basis_universal/zstd_supercompression=true
+basis_universal/zstd_supercompression_level=6
