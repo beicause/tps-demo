@@ -20,19 +20,19 @@ const DEFAULTS = {
 		vsync = DisplayServer.VSYNC_ENABLED,
 		max_fps = 0,
 		resolution_scale = 1.0,
-		scale_filter = Viewport.SCALING_3D_MODE_FSR2,
+		scale_filter = Viewport.SCALING_3D_MODE_BILINEAR,
 	},
 	rendering = {
 		taa = false,
 		msaa = Viewport.MSAA_DISABLED,
 		fxaa = false,
-		shadow_mapping = true,
+		shadow_mapping = false,
 		gi_type = GIType.VOXEL_GI,
 		gi_quality = GIQuality.LOW,
 		ssao_quality = RenderingServer.ENV_SSAO_QUALITY_MEDIUM,
 		ssil_quality = -1,  # Disabled
 		bloom = true,
-		volumetric_fog = true,
+		volumetric_fog = false,
 	},
 }
 

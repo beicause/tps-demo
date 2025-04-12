@@ -193,6 +193,7 @@ common/physics_interpolation=true
 [rendering]
 
 renderer/rendering_method="mobile"
+textures/vram_compression/import_etc2_astc=true
 reflections/sky_reflections/texture_array_reflections=false
 textures/default_filters/anisotropic_filtering_level=4
 textures/decals/filter=1
