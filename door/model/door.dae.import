@@ -36,10 +36,12 @@ _subresources={
 "materials": {
 "door": {
 "use_external/enabled": true,
-"use_external/path": "res://door/model/door.tres"
+"use_external/fallback_path": "res://door/model/door.tres",
+"use_external/path": "uid://bjy37rys7arg0"
 },
 "door_unlockedemission": {
 "use_external/enabled": true,
+"use_external/fallback_path": "res://door/model/door_unlockedemission.tres",
 "use_external/path": "res://door/model/door_unlockedemission.tres"
 }
 }
